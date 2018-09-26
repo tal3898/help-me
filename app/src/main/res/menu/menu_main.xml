@@ -1,0 +1,12 @@
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.taban.help.me.MainActivity">
+    <item
+        android:id="@+id/shareBtn"
+        android:title="share"
+        android:icon="@drawable/ic_share_btn"
+        app:showAsAction="always"
+        />
+</menu>

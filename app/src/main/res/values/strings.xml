@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Help Me</string>
+    <string name="action_settings">Settings</string>
+    <string name="admob_app_id">ca-app-pub-5267648725343207~2492555065</string>
+    <string name="banner_id">ca-app-pub-5267648725343207/3762238855</string>
+    <string name="help_text">Hi, I\'m a beginner programmer who needs some money.\nYou can aid me simply by clicking the ads :)</string>
+</resources>
